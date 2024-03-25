@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm a french student :)
+I’m currently learning Pyhon and HTML.
 
 <!--
 **timdem69/timdem69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
